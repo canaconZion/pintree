@@ -6243,13 +6243,6 @@
           },
           {
             "type": "link",
-            "addDate": 1657093610932,
-            "title": "Sync Internals",
-            "icon": "https://logo.clearbit.com/sync-internals",
-            "url": "chrome://sync-internals/"
-          },
-          {
-            "type": "link",
             "addDate": 1721046468350,
             "title": "Simple Desktops",
             "icon": "https://logo.clearbit.com/simpledesktops.com",
@@ -6303,6 +6296,55 @@
             "title": "摩斯密码翻译器：摩斯密码转换器",
             "icon": "https://logo.clearbit.com/charactercalculator.com",
             "url": "https://charactercalculator.com/zh-cn/morse-code-translator/"
+          },
+          {
+            "type": "link",
+            "addDate": 1726710397964,
+            "title": "全历史",
+            "icon": "https://logo.clearbit.com/www.allhistory.com",
+            "url": "https://www.allhistory.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1726732874700,
+            "title": "frps dashboard",
+            "icon": "https://logo.clearbit.com/101.43.26.36",
+            "url": "http://101.43.26.36:7500/static/#/"
+          },
+          {
+            "type": "folder",
+            "addDate": 1727074751490,
+            "title": "chrome",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1727074717418,
+                "title": "chrome://net-internals/#hsts",
+                "icon": "https://logo.clearbit.com/net-internals",
+                "url": "chrome://net-internals/#hsts"
+              },
+              {
+                "type": "link",
+                "addDate": 1654667681000,
+                "title": "WebRTC Internals",
+                "icon": "https://logo.clearbit.com/webrtc-internals",
+                "url": "chrome://webrtc-internals/"
+              },
+              {
+                "type": "link",
+                "addDate": 1657093610932,
+                "title": "Sync Internals",
+                "icon": "https://logo.clearbit.com/sync-internals",
+                "url": "chrome://sync-internals/"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1728470813964,
+            "title": "懂AI | 一站式AI导航",
+            "icon": "https://logo.clearbit.com/www.dongaigc.com",
+            "url": "https://www.dongaigc.com/"
           }
         ]
       },
@@ -6656,13 +6698,6 @@
                     "title": "视频编解码类型MJPEG数据格式介绍-CSDN博客",
                     "icon": "https://logo.clearbit.com/blog.csdn.net",
                     "url": "https://blog.csdn.net/fengbingchun/article/details/103528160"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1720780544844,
-                    "title": "OpenSSH命令注入漏洞复现(CVE-2020-15778)-腾讯云开发者社区-腾讯云",
-                    "icon": "https://logo.clearbit.com/cloud.tencent.com",
-                    "url": "https://cloud.tencent.com/developer/article/1937099"
                   }
                 ]
               },
@@ -6849,13 +6884,6 @@
               },
               {
                 "type": "link",
-                "addDate": 1722944074991,
-                "title": "WebRTC samples",
-                "icon": "https://logo.clearbit.com/webrtc.github.io",
-                "url": "https://webrtc.github.io/samples/"
-              },
-              {
-                "type": "link",
                 "addDate": 1722993637683,
                 "title": "介绍 | 给好奇者的WebRTC",
                 "icon": "https://logo.clearbit.com/webrtcforthecurious.com",
@@ -6905,10 +6933,10 @@
               },
               {
                 "type": "link",
-                "addDate": 1654667681000,
-                "title": "WebRTC Internals",
-                "icon": "https://logo.clearbit.com/webrtc-internals",
-                "url": "chrome://webrtc-internals/"
+                "addDate": 1722944074991,
+                "title": "WebRTC samples",
+                "icon": "https://logo.clearbit.com/webrtc.github.io",
+                "url": "https://webrtc.github.io/samples/"
               },
               {
                 "type": "link",
@@ -7000,6 +7028,20 @@
                     "url": "https://yiyibooks.cn/rfc/rfc8832/index.html#iana_msg_type"
                   }
                 ]
+              },
+              {
+                "type": "link",
+                "addDate": 1726823349597,
+                "title": "WebRTC bandwidth requirements - Stack Overflow",
+                "icon": "https://logo.clearbit.com/stackoverflow.com",
+                "url": "https://stackoverflow.com/questions/29854622/webrtc-bandwidth-requirements"
+              },
+              {
+                "type": "link",
+                "addDate": 1726835163671,
+                "title": "SRS环境下，webrtc关闭srtp，通过chrome拉流播放 - 知乎",
+                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                "url": "https://zhuanlan.zhihu.com/p/399775813"
               }
             ]
           },
@@ -7044,6 +7086,27 @@
                 "url": "https://github.com/sctplab/usrsctp/tree/master"
               }
             ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1726229608737,
+            "title": "web端视频播放",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1726229582550,
+                "title": "Web下无插件播放rtsp视频流的方案总结_web播放器 rtsp不显示-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/ajrm0925/article/details/91879551"
+              },
+              {
+                "type": "link",
+                "addDate": 1726309208874,
+                "title": "Blob - Web API | MDN",
+                "icon": "https://logo.clearbit.com/developer.mozilla.org",
+                "url": "https://developer.mozilla.org/zh-CN/docs/Web/API/Blob"
+              }
+            ]
           }
         ]
       },
@@ -7086,6 +7149,34 @@
             "title": "刘锡安 / license-server · GitLab",
             "icon": "https://logo.clearbit.com/192.168.66.101",
             "url": "http://192.168.66.101/liuxian/license-server"
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "addDate": 1725971512228,
+        "title": "Pintree",
+        "icon": "https://logo.clearbit.com/canaconzion.github.io",
+        "url": "https://canaconzion.github.io/pintree/"
+      },
+      {
+        "type": "folder",
+        "addDate": 1727083442797,
+        "title": "yzwebrtchtml",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1726811428593,
+            "title": "WebRTC DataChannel",
+            "icon": "https://logo.clearbit.com/101.43.26.36",
+            "url": "http://101.43.26.36/books/web/videoconn/webrtcChat.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1727083445925,
+            "title": "Turn WebRTC DataChannel",
+            "icon": "https://logo.clearbit.com/101.43.26.36",
+            "url": "http://101.43.26.36/books/web/videoconn/turnServerWebrtc.html"
           }
         ]
       }
