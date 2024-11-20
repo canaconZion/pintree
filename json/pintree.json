@@ -3334,195 +3334,6 @@
       },
       {
         "type": "folder",
-        "addDate": 1647506852040,
-        "title": "语言",
-        "children": [
-          {
-            "type": "folder",
-            "addDate": 1647506852040,
-            "title": "nodejs",
-            "children": [
-              {
-                "type": "folder",
-                "addDate": 1647506852040,
-                "title": "库",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1646635015135,
-                    "title": "lodash入门 - 简书",
-                    "icon": "https://logo.clearbit.com/www.jianshu.com",
-                    "url": "https://www.jianshu.com/p/d46abfa4ddc9"
-                  }
-                ]
-              },
-              {
-                "type": "link",
-                "addDate": 1661410553145,
-                "title": "TypeScript: The starting point for learning TypeScript",
-                "icon": "https://logo.clearbit.com/www.typescriptlang.org",
-                "url": "https://www.typescriptlang.org/docs/"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1656243026765,
-            "title": "python",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1656243012549,
-                "title": "Python3 教程 | 菜鸟教程",
-                "icon": "https://logo.clearbit.com/www.runoob.com",
-                "url": "https://www.runoob.com/python3/python3-tutorial.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1656344243551,
-                "title": "字符串匹配(67条消息) Python字符串匹配----6种方法的使用_qq_34500270的博客-CSDN博客_python 匹配",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/qq_34500270/article/details/82899057"
-              },
-              {
-                "type": "link",
-                "addDate": 1656658081964,
-                "title": "python中subprocess模块 - 司徒轩宇 - 博客园",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/litianming/p/16423435.html#:~:text=import%20subprocess%20res%20%3D%20subprocess.Popen%20%28%22aaa%22%2C%20%23%20%E5%9C%A8%E7%BB%88%E7%AB%AF%E8%BF%90%E8%A1%8C%E7%9A%84%E5%91%BD%E4%BB%A4,result%3D%20str%20%28result%2Cencoding%3D%20%22gbk%22%29%20%23%20%E5%9C%A8windows%E9%9C%80%E8%A6%81%E4%BD%BF%E7%94%A8gbk%E7%BC%96%E7%A0%81%20print%20%28result%29"
-              },
-              {
-                "type": "link",
-                "addDate": 1656917941664,
-                "title": "python： tcp/ip学习、端口号、UDP的发送和接受数据、绑定端口号、模拟聊天室_will-well的博客-CSDN博客_python端口号",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/yanhuatangtang/article/details/77104132"
-              },
-              {
-                "type": "link",
-                "addDate": 1657011253907,
-                "title": "pygst-tutorial.pdf",
-                "icon": "https://logo.clearbit.com/",
-                "url": "file:///home/liuxa/%E6%96%87%E6%A1%A3/%E7%AC%94%E8%AE%B0/pygst-tutorial.pdf"
-              },
-              {
-                "type": "link",
-                "addDate": 1657521031016,
-                "title": "unittest测试框架详解 - miki_peng - 博客园",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/miki-peng/p/12501341.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1659200888628,
-                "title": "启动传参",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/H542723151/article/details/81712087"
-              },
-              {
-                "type": "link",
-                "addDate": 1659203895167,
-                "title": "python 异常捕获方法总结 - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/321408784"
-              },
-              {
-                "type": "link",
-                "addDate": 1659322041453,
-                "title": "(52条消息) Python3 导入上级目录中的模块_极客点儿的博客-CSDN博客_python 导入上级目录的模块",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/yilovexing/article/details/81584629"
-              },
-              {
-                "type": "link",
-                "addDate": 1662625725902,
-                "title": "python编码规范PEP8 - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/104564936#:~:text=PEP8%E6%98%AFpython%E4%BD%9C%E8%80%85%E5%86%99%E7%9A%84%E4%B8%80%E4%BB%BDpython%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83%E6%8C%87%E5%8D%97%20%E6%89%80%E6%9C%89%E8%A1%8C%E9%99%90%E5%88%B6%E7%9A%84%E6%9C%80%E5%A4%A7%E5%AD%97%E7%AC%A6%E6%95%B079%EF%BC%8C%E6%96%87%E6%A1%A3%E6%88%96%E6%B3%A8%E9%87%8A%E7%AD%89%E6%B2%A1%E6%9C%89%E7%BB%93%E6%9E%84%E5%8C%96%E9%99%90%E5%88%B6%E7%9A%84%E5%A4%A7%E5%9D%97%E6%96%87%E6%9C%AC%E8%A1%8C%E6%9C%80%E5%A4%A7%E9%99%90%E5%88%B6%E5%AD%97%E7%AC%A6%E6%95%B072%2C%E5%A4%AA%E9%95%BF%E5%8F%AF%E6%8D%A2%E8%A1%8C%EF%BC%8C%E6%8B%AC%E5%8F%B7%E9%87%8C%E7%9A%84%E7%9B%B4%E6%8E%A5%E5%9B%9E%E8%BD%A6%E6%8D%A2%E8%A1%8C%EF%BC%8C%E7%AC%A6%E5%8F%B7%E8%B7%9F%E4%B8%8B%E8%A1%8C%EF%BC%8C%E4%B8%8A%E4%B8%8B%E5%AF%B9%E5%85%B6%EF%BC%9B%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%20%20%E6%8D%A2%E8%A1%8C%EF%BC%8C%E4%B8%8A%E4%B8%8B%E5%AF%B9%E5%85%B6%E3%80%82%20%E5%87%BD%E6%95%B0%E5%90%8D%E5%92%8C%E5%90%8E%E9%9D%A2%E7%9A%84,%28%29%E4%B9%8B%E9%97%B4%E4%B8%8D%E8%A6%81%E5%8A%A0%E7%A9%BA%E6%A0%BC%EF%BC%9B%EF%BC%9A%E4%B9%8B%E5%89%8D%E4%B8%8D%E8%A6%81%E5%8A%A0%E7%A9%BA%E6%A0%BC%EF%BC%9B%EF%BC%88%EF%BC%89%E5%86%85%E7%9A%84%E5%8F%82%E6%95%B0%E4%B9%8B%E9%97%B4%E5%8F%AF%E4%BB%A5%E5%9C%A8%EF%BC%8C%E4%B9%8B%E5%90%8E%E5%8A%A0%E7%A9%BA%E6%A0%BC%EF%BC%9B%3D%E7%AD%89%E4%BA%8C%E5%85%83%E8%BF%90%E7%AE%97%E7%AC%A6%20%E5%89%8D%E5%90%8E%E5%8A%A0%E7%A9%BA%E6%A0%BC%20%EF%BC%9B%E5%88%B6%E5%AE%9A%E5%85%B3%E9%94%AE%E5%AD%97%E5%8F%82%E6%95%B0%E6%88%96%E8%80%85%E9%BB%98%E8%AE%A4%E5%8F%82%E6%95%B0%E5%80%BC%E7%9A%84%E6%97%B6%E5%80%99%EF%BC%8C%3D%20%E9%99%84%E8%BF%91%E4%B8%8D%E5%8A%A0%E7%A9%BA%E6%A0%BC%E3%80%82%20%E4%BB%85%E4%BB%85%E6%B3%A8%E9%87%8A%E4%B8%8D%E6%98%AF%E4%B8%80%E7%9B%AE%E4%BA%86%E7%84%B6%E7%9A%84%EF%BC%8C%E9%9A%BE%E4%BB%A5%E7%90%86%E8%A7%A3%E7%9A%84%E4%BB%A3%E7%A0%81%E8%BF%9B%E8%A1%8C%E6%B3%A8%E9%87%8A%EF%BC%8C%E6%B3%A8%E9%87%8A%E7%94%A8%E6%9D%A5%E8%A7%A3%E9%87%8A%E4%BB%A3%E7%A0%81%E7%9A%84%E5%8A%9F%E8%83%BD%E3%80%81%E5%8E%9F%E5%9B%A0%E5%92%8C%E6%83%B3%E6%B3%95%EF%BC%8C%E4%B8%8D%E6%98%AF%E5%AF%B9%E4%BB%A3%E7%A0%81%E6%9C%AC%E8%BA%AB%E7%9A%84%E8%A7%A3%E9%87%8A%EF%BC%9B%E4%B8%8D%E9%9C%80%E8%A6%81%E7%9A%84%E4%BB%A3%E7%A0%81%E7%9B%B4%E6%8E%A5%E5%88%A0%E9%99%A4%EF%BC%8C%E6%88%90%E7%86%9F%E4%BB%A3%E7%A0%81%E4%B8%8D%E8%A6%81%E6%9C%89%E6%B3%A8%E9%87%8A%E4%BB%A3%E7%A0%81%20%E9%87%87%E7%94%A8%E5%86%85%E8%81%94%E5%BD%A2%E5%BC%8F%E7%9A%84%E5%90%A6%E5%AE%9A%E8%AF%8D%EF%BC%8C%E8%80%8C%E4%B8%8D%E8%A6%81%E6%8A%8A%E5%90%A6%E5%AE%9A%E8%AF%8D%E6%94%BE%E5%9C%A8%E6%95%B4%E4%B8%AA%E8%A1%A8%E8%BE%BE%E5%BC%8F%E7%9A%84%E5%89%8D%E9%9D%A2%E3%80%82"
-              },
-              {
-                "type": "link",
-                "addDate": 1662625748744,
-                "title": "7-Pylint代码分析工具 - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/364594654"
-              },
-              {
-                "type": "link",
-                "addDate": 1662633664766,
-                "title": "Making timelines with Python – DadOverflow.com",
-                "icon": "https://logo.clearbit.com/dadoverflow.com",
-                "url": "https://dadoverflow.com/2021/08/17/making-timelines-with-python/"
-              },
-              {
-                "type": "link",
-                "addDate": 1662948525562,
-                "title": "(62条消息) python绘制时间节点事件图_喜欢coding的谢同学的博客-CSDN博客_python时间线",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/weixin_44112790/article/details/96757997"
-              },
-              {
-                "type": "link",
-                "addDate": 1662948590356,
-                "title": "Creating a timeline with lines, dates, and text — Matplotlib 3.5.3 documentation",
-                "icon": "https://logo.clearbit.com/matplotlib.org",
-                "url": "https://matplotlib.org/stable/gallery/lines_bars_and_markers/timeline.html#sphx-glr-gallery-lines-bars-and-markers-timeline-py"
-              },
-              {
-                "type": "link",
-                "addDate": 1662948883487,
-                "title": "Examples — Matplotlib 3.5.3 documentation",
-                "icon": "https://logo.clearbit.com/matplotlib.org",
-                "url": "https://matplotlib.org/stable/gallery/index.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1662952631038,
-                "title": "(63条消息) 如何在matplotlib中子图ax上显示中文（csdn上第一篇）_小怪兽会微笑的博客-CSDN博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/a1920993165/article/details/120605165"
-              },
-              {
-                "type": "link",
-                "addDate": 1664243184991,
-                "title": "(68条消息) python3 日期datetime、时间戳timestamp、时间字符串date_string之间的转换_Idea King的博客-CSDN博客_python3 timestamp",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/besmarterbestronger/article/details/100730937"
-              },
-              {
-                "type": "link",
-                "addDate": 1664336247289,
-                "title": "(68条消息) Linux 服务器Python后台运行服务(ssh断开不退出)_唐大帅的博客-CSDN博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/voke_/article/details/112612719"
-              },
-              {
-                "type": "link",
-                "addDate": 1667353468251,
-                "title": "(71条消息) Python文件编译或打包成exe文件，直接在其它Windows电脑上运行_若如初见kk的博客-CSDN博客_py转exe在另一台电脑运行",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/Artificial_idiots/article/details/109554749"
-              },
-              {
-                "type": "link",
-                "addDate": 1670208196069,
-                "title": "(43条消息) Python报错: python setup.py egg_info\" failed with error code 1_大大大大大桃子的博客-CSDN博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/soindy/article/details/71108356"
-              }
-            ]
-          },
-          {
-            "type": "link",
-            "addDate": 1690008452917,
-            "title": "行路难·其一原文、翻译及赏析、拼音版及朗读_李白古诗_古诗文网",
-            "icon": "https://logo.clearbit.com/so.gushiwen.cn",
-            "url": "https://so.gushiwen.cn/shiwenv_870828ca8aaa.aspx"
-          }
-        ]
-      },
-      {
-        "type": "folder",
         "addDate": 1647506852041,
         "title": "社区",
         "children": [
@@ -3742,6 +3553,13 @@
             "title": "基督教电子书分享",
             "icon": "https://logo.clearbit.com/drive.my-elibrary.com",
             "url": "https://drive.my-elibrary.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1730461795110,
+            "title": "实时互动网-为实时互动创业者和开发者服务",
+            "icon": "https://logo.clearbit.com/www.nxrte.com",
+            "url": "https://www.nxrte.com/"
           }
         ]
       },
@@ -4578,6 +4396,13 @@
                     "title": "音频参数解析_音频解析-CSDN博客",
                     "icon": "https://logo.clearbit.com/blog.csdn.net",
                     "url": "https://blog.csdn.net/caoshangpa/article/details/51218597"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1731319757551,
+                    "title": "单独编译和使用webrtc音频回声消除模块(附完整源码+测试音频文件)（转）_webrtc如何单独编译acem-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/zp704393004/article/details/127214547"
                   }
                 ]
               },
@@ -4846,6 +4671,20 @@
                     "url": "https://blog.csdn.net/longintchar/article/details/80247806"
                   }
                 ]
+              },
+              {
+                "type": "link",
+                "addDate": 1730377391208,
+                "title": "C 语言回调函数详解 | 菜鸟教程",
+                "icon": "https://logo.clearbit.com/www.runoob.com",
+                "url": "https://www.runoob.com/w3cnote/c-callback-function.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1730864172706,
+                "title": "C++中的各种锁 - Arthurian - 博客园",
+                "icon": "https://logo.clearbit.com/www.cnblogs.com",
+                "url": "https://www.cnblogs.com/Arthurian/p/18526135"
               }
             ]
           },
@@ -5091,6 +4930,13 @@
                 "title": "在Termux上搭建Docker：一步步指南-百度开发者中心",
                 "icon": "https://logo.clearbit.com/developer.baidu.com",
                 "url": "https://developer.baidu.com/article/details/3303500"
+              },
+              {
+                "type": "link",
+                "addDate": 1729218625861,
+                "title": "Ubuntu 添加用户以及设置超级管理员权限_ubuntu 把普通用户设置成管理员-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/geol200709/article/details/82116267"
               }
             ]
           },
@@ -5947,14 +5793,218 @@
                 "url": "https://learn.microsoft.com/zh-cn/training/paths/rust-first-steps/"
               }
             ]
+          },
+          {
+            "type": "link",
+            "addDate": 1728646254676,
+            "title": "威威的GPT单词本",
+            "icon": "https://logo.clearbit.com/ceelog.github.io",
+            "url": "https://ceelog.github.io/DictionaryByGPT4/index.html"
+          },
+          {
+            "type": "folder",
+            "addDate": 1647506852040,
+            "title": "语言",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1647506852040,
+                "title": "nodejs",
+                "children": [
+                  {
+                    "type": "folder",
+                    "addDate": 1647506852040,
+                    "title": "库",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1646635015135,
+                        "title": "lodash入门 - 简书",
+                        "icon": "https://logo.clearbit.com/www.jianshu.com",
+                        "url": "https://www.jianshu.com/p/d46abfa4ddc9"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1661410553145,
+                    "title": "TypeScript: The starting point for learning TypeScript",
+                    "icon": "https://logo.clearbit.com/www.typescriptlang.org",
+                    "url": "https://www.typescriptlang.org/docs/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730108592141,
+                    "title": "首页 | Node.js v20 文档",
+                    "icon": "https://logo.clearbit.com/nodejs.cn",
+                    "url": "https://nodejs.cn/api/v20/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1656243026765,
+                "title": "python",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1656243012549,
+                    "title": "Python3 教程 | 菜鸟教程",
+                    "icon": "https://logo.clearbit.com/www.runoob.com",
+                    "url": "https://www.runoob.com/python3/python3-tutorial.html"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1656344243551,
+                    "title": "字符串匹配(67条消息) Python字符串匹配----6种方法的使用_qq_34500270的博客-CSDN博客_python 匹配",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/qq_34500270/article/details/82899057"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1656658081964,
+                    "title": "python中subprocess模块 - 司徒轩宇 - 博客园",
+                    "icon": "https://logo.clearbit.com/www.cnblogs.com",
+                    "url": "https://www.cnblogs.com/litianming/p/16423435.html#:~:text=import%20subprocess%20res%20%3D%20subprocess.Popen%20%28%22aaa%22%2C%20%23%20%E5%9C%A8%E7%BB%88%E7%AB%AF%E8%BF%90%E8%A1%8C%E7%9A%84%E5%91%BD%E4%BB%A4,result%3D%20str%20%28result%2Cencoding%3D%20%22gbk%22%29%20%23%20%E5%9C%A8windows%E9%9C%80%E8%A6%81%E4%BD%BF%E7%94%A8gbk%E7%BC%96%E7%A0%81%20print%20%28result%29"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1656917941664,
+                    "title": "python： tcp/ip学习、端口号、UDP的发送和接受数据、绑定端口号、模拟聊天室_will-well的博客-CSDN博客_python端口号",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/yanhuatangtang/article/details/77104132"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1657011253907,
+                    "title": "pygst-tutorial.pdf",
+                    "icon": "https://logo.clearbit.com/",
+                    "url": "file:///home/liuxa/%E6%96%87%E6%A1%A3/%E7%AC%94%E8%AE%B0/pygst-tutorial.pdf"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1657521031016,
+                    "title": "unittest测试框架详解 - miki_peng - 博客园",
+                    "icon": "https://logo.clearbit.com/www.cnblogs.com",
+                    "url": "https://www.cnblogs.com/miki-peng/p/12501341.html"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1659200888628,
+                    "title": "启动传参",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/H542723151/article/details/81712087"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1659203895167,
+                    "title": "python 异常捕获方法总结 - 知乎",
+                    "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                    "url": "https://zhuanlan.zhihu.com/p/321408784"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1659322041453,
+                    "title": "(52条消息) Python3 导入上级目录中的模块_极客点儿的博客-CSDN博客_python 导入上级目录的模块",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/yilovexing/article/details/81584629"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1662625725902,
+                    "title": "python编码规范PEP8 - 知乎",
+                    "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                    "url": "https://zhuanlan.zhihu.com/p/104564936#:~:text=PEP8%E6%98%AFpython%E4%BD%9C%E8%80%85%E5%86%99%E7%9A%84%E4%B8%80%E4%BB%BDpython%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83%E6%8C%87%E5%8D%97%20%E6%89%80%E6%9C%89%E8%A1%8C%E9%99%90%E5%88%B6%E7%9A%84%E6%9C%80%E5%A4%A7%E5%AD%97%E7%AC%A6%E6%95%B079%EF%BC%8C%E6%96%87%E6%A1%A3%E6%88%96%E6%B3%A8%E9%87%8A%E7%AD%89%E6%B2%A1%E6%9C%89%E7%BB%93%E6%9E%84%E5%8C%96%E9%99%90%E5%88%B6%E7%9A%84%E5%A4%A7%E5%9D%97%E6%96%87%E6%9C%AC%E8%A1%8C%E6%9C%80%E5%A4%A7%E9%99%90%E5%88%B6%E5%AD%97%E7%AC%A6%E6%95%B072%2C%E5%A4%AA%E9%95%BF%E5%8F%AF%E6%8D%A2%E8%A1%8C%EF%BC%8C%E6%8B%AC%E5%8F%B7%E9%87%8C%E7%9A%84%E7%9B%B4%E6%8E%A5%E5%9B%9E%E8%BD%A6%E6%8D%A2%E8%A1%8C%EF%BC%8C%E7%AC%A6%E5%8F%B7%E8%B7%9F%E4%B8%8B%E8%A1%8C%EF%BC%8C%E4%B8%8A%E4%B8%8B%E5%AF%B9%E5%85%B6%EF%BC%9B%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%20%20%E6%8D%A2%E8%A1%8C%EF%BC%8C%E4%B8%8A%E4%B8%8B%E5%AF%B9%E5%85%B6%E3%80%82%20%E5%87%BD%E6%95%B0%E5%90%8D%E5%92%8C%E5%90%8E%E9%9D%A2%E7%9A%84,%28%29%E4%B9%8B%E9%97%B4%E4%B8%8D%E8%A6%81%E5%8A%A0%E7%A9%BA%E6%A0%BC%EF%BC%9B%EF%BC%9A%E4%B9%8B%E5%89%8D%E4%B8%8D%E8%A6%81%E5%8A%A0%E7%A9%BA%E6%A0%BC%EF%BC%9B%EF%BC%88%EF%BC%89%E5%86%85%E7%9A%84%E5%8F%82%E6%95%B0%E4%B9%8B%E9%97%B4%E5%8F%AF%E4%BB%A5%E5%9C%A8%EF%BC%8C%E4%B9%8B%E5%90%8E%E5%8A%A0%E7%A9%BA%E6%A0%BC%EF%BC%9B%3D%E7%AD%89%E4%BA%8C%E5%85%83%E8%BF%90%E7%AE%97%E7%AC%A6%20%E5%89%8D%E5%90%8E%E5%8A%A0%E7%A9%BA%E6%A0%BC%20%EF%BC%9B%E5%88%B6%E5%AE%9A%E5%85%B3%E9%94%AE%E5%AD%97%E5%8F%82%E6%95%B0%E6%88%96%E8%80%85%E9%BB%98%E8%AE%A4%E5%8F%82%E6%95%B0%E5%80%BC%E7%9A%84%E6%97%B6%E5%80%99%EF%BC%8C%3D%20%E9%99%84%E8%BF%91%E4%B8%8D%E5%8A%A0%E7%A9%BA%E6%A0%BC%E3%80%82%20%E4%BB%85%E4%BB%85%E6%B3%A8%E9%87%8A%E4%B8%8D%E6%98%AF%E4%B8%80%E7%9B%AE%E4%BA%86%E7%84%B6%E7%9A%84%EF%BC%8C%E9%9A%BE%E4%BB%A5%E7%90%86%E8%A7%A3%E7%9A%84%E4%BB%A3%E7%A0%81%E8%BF%9B%E8%A1%8C%E6%B3%A8%E9%87%8A%EF%BC%8C%E6%B3%A8%E9%87%8A%E7%94%A8%E6%9D%A5%E8%A7%A3%E9%87%8A%E4%BB%A3%E7%A0%81%E7%9A%84%E5%8A%9F%E8%83%BD%E3%80%81%E5%8E%9F%E5%9B%A0%E5%92%8C%E6%83%B3%E6%B3%95%EF%BC%8C%E4%B8%8D%E6%98%AF%E5%AF%B9%E4%BB%A3%E7%A0%81%E6%9C%AC%E8%BA%AB%E7%9A%84%E8%A7%A3%E9%87%8A%EF%BC%9B%E4%B8%8D%E9%9C%80%E8%A6%81%E7%9A%84%E4%BB%A3%E7%A0%81%E7%9B%B4%E6%8E%A5%E5%88%A0%E9%99%A4%EF%BC%8C%E6%88%90%E7%86%9F%E4%BB%A3%E7%A0%81%E4%B8%8D%E8%A6%81%E6%9C%89%E6%B3%A8%E9%87%8A%E4%BB%A3%E7%A0%81%20%E9%87%87%E7%94%A8%E5%86%85%E8%81%94%E5%BD%A2%E5%BC%8F%E7%9A%84%E5%90%A6%E5%AE%9A%E8%AF%8D%EF%BC%8C%E8%80%8C%E4%B8%8D%E8%A6%81%E6%8A%8A%E5%90%A6%E5%AE%9A%E8%AF%8D%E6%94%BE%E5%9C%A8%E6%95%B4%E4%B8%AA%E8%A1%A8%E8%BE%BE%E5%BC%8F%E7%9A%84%E5%89%8D%E9%9D%A2%E3%80%82"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1662625748744,
+                    "title": "7-Pylint代码分析工具 - 知乎",
+                    "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                    "url": "https://zhuanlan.zhihu.com/p/364594654"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1662633664766,
+                    "title": "Making timelines with Python – DadOverflow.com",
+                    "icon": "https://logo.clearbit.com/dadoverflow.com",
+                    "url": "https://dadoverflow.com/2021/08/17/making-timelines-with-python/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1662948525562,
+                    "title": "(62条消息) python绘制时间节点事件图_喜欢coding的谢同学的博客-CSDN博客_python时间线",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/weixin_44112790/article/details/96757997"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1662948590356,
+                    "title": "Creating a timeline with lines, dates, and text — Matplotlib 3.5.3 documentation",
+                    "icon": "https://logo.clearbit.com/matplotlib.org",
+                    "url": "https://matplotlib.org/stable/gallery/lines_bars_and_markers/timeline.html#sphx-glr-gallery-lines-bars-and-markers-timeline-py"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1662948883487,
+                    "title": "Examples — Matplotlib 3.5.3 documentation",
+                    "icon": "https://logo.clearbit.com/matplotlib.org",
+                    "url": "https://matplotlib.org/stable/gallery/index.html"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1662952631038,
+                    "title": "(63条消息) 如何在matplotlib中子图ax上显示中文（csdn上第一篇）_小怪兽会微笑的博客-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/a1920993165/article/details/120605165"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1664243184991,
+                    "title": "(68条消息) python3 日期datetime、时间戳timestamp、时间字符串date_string之间的转换_Idea King的博客-CSDN博客_python3 timestamp",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/besmarterbestronger/article/details/100730937"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1664336247289,
+                    "title": "(68条消息) Linux 服务器Python后台运行服务(ssh断开不退出)_唐大帅的博客-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/voke_/article/details/112612719"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1667353468251,
+                    "title": "(71条消息) Python文件编译或打包成exe文件，直接在其它Windows电脑上运行_若如初见kk的博客-CSDN博客_py转exe在另一台电脑运行",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/Artificial_idiots/article/details/109554749"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1670208196069,
+                    "title": "(43条消息) Python报错: python setup.py egg_info\" failed with error code 1_大大大大大桃子的博客-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/soindy/article/details/71108356"
+                  }
+                ]
+              },
+              {
+                "type": "link",
+                "addDate": 1690008452917,
+                "title": "行路难·其一原文、翻译及赏析、拼音版及朗读_李白古诗_古诗文网",
+                "icon": "https://logo.clearbit.com/so.gushiwen.cn",
+                "url": "https://so.gushiwen.cn/shiwenv_870828ca8aaa.aspx"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1731289132834,
+            "title": "面试官最常用小心思：说说你的项目并发量多大？负载均衡怎么做？_Java_小Q_InfoQ写作社区",
+            "icon": "https://logo.clearbit.com/xie.infoq.cn",
+            "url": "https://xie.infoq.cn/article/d5b15ac1bac91f2832399c836"
           }
         ]
-      },
-      {
-        "type": "folder",
-        "addDate": 1664435092913,
-        "title": "待读",
-        "children": []
       },
       {
         "type": "link",
@@ -5965,170 +6015,177 @@
       },
       {
         "type": "folder",
-        "addDate": 1689228423263,
-        "title": "AI",
-        "children": [
-          {
-            "type": "link",
-            "addDate": 1689227461166,
-            "title": "Claude",
-            "icon": "https://logo.clearbit.com/claude.ai",
-            "url": "https://claude.ai/chat/f458b99c-3c61-464d-aa78-71db2287009c"
-          },
-          {
-            "type": "link",
-            "addDate": 1684288127614,
-            "title": "New chat",
-            "icon": "https://logo.clearbit.com/chat.openai.com",
-            "url": "https://chat.openai.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1689233864001,
-            "title": "文心一言",
-            "icon": "https://logo.clearbit.com/yiyan.baidu.com",
-            "url": "https://yiyan.baidu.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1691649139942,
-            "title": "讯飞星火认知大模型-AI大语言模型-星火大模型-科大讯飞",
-            "icon": "https://logo.clearbit.com/xinghuo.xfyun.cn",
-            "url": "https://xinghuo.xfyun.cn/desk"
-          },
-          {
-            "type": "link",
-            "addDate": 1694135328723,
-            "title": "文心一格 - AI艺术和创意辅助平台",
-            "icon": "https://logo.clearbit.com/yige.baidu.com",
-            "url": "https://yige.baidu.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1694136043307,
-            "title": "Discord | 在 Discord 找到自己的社区",
-            "icon": "https://logo.clearbit.com/discord.com",
-            "url": "https://discord.com/guild-discovery"
-          },
-          {
-            "type": "folder",
-            "addDate": 1697794294301,
-            "title": "学习",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1697794281332,
-                "title": "Huggingface 超详细介绍 - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/535100411"
-              },
-              {
-                "type": "link",
-                "addDate": 1698983554480,
-                "title": "chatglm3-6b · 模型库",
-                "icon": "https://logo.clearbit.com/modelscope.cn",
-                "url": "https://modelscope.cn/models/ZhipuAI/chatglm3-6b/summary"
-              },
-              {
-                "type": "link",
-                "addDate": 1698994046415,
-                "title": "本地安装部署运行 ChatGLM-6B 的常见问题解答以及后续优化 — 秋风于渭水",
-                "icon": "https://logo.clearbit.com/www.tjsky.net",
-                "url": "https://www.tjsky.net/tutorial/667"
-              },
-              {
-                "type": "link",
-                "addDate": 1698995917552,
-                "title": "ChatGLM2微调保姆级教程~ - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/641047705"
-              },
-              {
-                "type": "link",
-                "addDate": 1699430974021,
-                "title": "ChatGLM3 的工具调用（FunctionCalling）实现原理 - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/664233831"
-              },
-              {
-                "type": "link",
-                "addDate": 1699431108125,
-                "title": "ChatGLM3-6B 功能原理解析 - Hacker and Geeker's Way",
-                "icon": "https://logo.clearbit.com/zhaozhiming.github.io",
-                "url": "https://zhaozhiming.github.io/2023/11/01/chatglm3-feature-interpretation/"
-              }
-            ]
-          },
-          {
-            "type": "link",
-            "addDate": 1698974535110,
-            "title": "百川大模型-汇聚世界知识 创作妙笔生花-百川智能",
-            "icon": "https://logo.clearbit.com/www.baichuan-ai.com",
-            "url": "https://www.baichuan-ai.com/chat?from=%2Fhome"
-          },
-          {
-            "type": "link",
-            "addDate": 1698980706124,
-            "title": "本地部署清华大模型 ChatGLM3-CSDN博客",
-            "icon": "https://logo.clearbit.com/blog.csdn.net",
-            "url": "https://blog.csdn.net/qq_41773806/article/details/134189261"
-          },
-          {
-            "type": "link",
-            "addDate": 1702717178422,
-            "title": "新的ChatGPTPlus(GPT4)支付渠道？怎么付费充值？ - 知乎",
-            "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-            "url": "https://zhuanlan.zhihu.com/p/647673906"
-          },
-          {
-            "type": "link",
-            "addDate": 1703301518982,
-            "title": "VTuber Maker | Bring VTuber Avatar to Life",
-            "icon": "https://logo.clearbit.com/live3d.io",
-            "url": "https://live3d.io/vtuber_maker"
-          },
-          {
-            "type": "link",
-            "addDate": 1686552353698,
-            "title": "Gen-2: Text to Video - Runway",
-            "icon": "https://logo.clearbit.com/app.runwayml.com",
-            "url": "https://app.runwayml.com/video-tools/teams/congliu096/ai-tools/gen-2"
-          },
-          {
-            "type": "link",
-            "addDate": 1717505209591,
-            "title": "扣子 - AI 智能体开发平台",
-            "icon": "https://logo.clearbit.com/www.coze.cn",
-            "url": "https://www.coze.cn/?cate_type=category&cate_value=7331636528340500518"
-          },
-          {
-            "type": "link",
-            "addDate": 1717553878913,
-            "title": "gpt4",
-            "icon": "https://logo.clearbit.com/medium.com",
-            "url": "https://medium.com/@khawarkhani0786/%E4%BA%B2%E6%B5%8B%E6%9C%89%E6%95%88-chatgpt-plus%E4%BC%9A%E5%91%98-gpt4%E5%BC%80%E9%80%9A%E6%96%B9%E6%B3%95-%E4%BB%85%E9%9C%80%E6%94%AF%E4%BB%98%E5%AE%9D%E6%88%96%E5%BE%AE%E4%BF%A1-69b706a0b72b"
-          },
-          {
-            "type": "link",
-            "addDate": 1718354823357,
-            "title": "Copilot",
-            "icon": "https://logo.clearbit.com/copilot.microsoft.com",
-            "url": "https://copilot.microsoft.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1719486326082,
-            "title": "Hugging Face快速入门（重点讲解模型(Transformers)和数据集部分(Datasets)）_huggingface-CSDN博客",
-            "icon": "https://logo.clearbit.com/blog.csdn.net",
-            "url": "https://blog.csdn.net/zhaohongfei_358/article/details/126224199"
-          }
-        ]
-      },
-      {
-        "type": "folder",
         "addDate": 1702971658736,
         "title": "tools",
         "children": [
+          {
+            "type": "folder",
+            "addDate": 1689228423263,
+            "title": "AI",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1689227461166,
+                "title": "Claude",
+                "icon": "https://logo.clearbit.com/claude.ai",
+                "url": "https://claude.ai/chat/f458b99c-3c61-464d-aa78-71db2287009c"
+              },
+              {
+                "type": "link",
+                "addDate": 1684288127614,
+                "title": "New chat",
+                "icon": "https://logo.clearbit.com/chat.openai.com",
+                "url": "https://chat.openai.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1689233864001,
+                "title": "文心一言",
+                "icon": "https://logo.clearbit.com/yiyan.baidu.com",
+                "url": "https://yiyan.baidu.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1691649139942,
+                "title": "讯飞星火认知大模型-AI大语言模型-星火大模型-科大讯飞",
+                "icon": "https://logo.clearbit.com/xinghuo.xfyun.cn",
+                "url": "https://xinghuo.xfyun.cn/desk"
+              },
+              {
+                "type": "link",
+                "addDate": 1694135328723,
+                "title": "文心一格 - AI艺术和创意辅助平台",
+                "icon": "https://logo.clearbit.com/yige.baidu.com",
+                "url": "https://yige.baidu.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1694136043307,
+                "title": "Discord | 在 Discord 找到自己的社区",
+                "icon": "https://logo.clearbit.com/discord.com",
+                "url": "https://discord.com/guild-discovery"
+              },
+              {
+                "type": "folder",
+                "addDate": 1697794294301,
+                "title": "学习",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1697794281332,
+                    "title": "Huggingface 超详细介绍 - 知乎",
+                    "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                    "url": "https://zhuanlan.zhihu.com/p/535100411"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1698983554480,
+                    "title": "chatglm3-6b · 模型库",
+                    "icon": "https://logo.clearbit.com/modelscope.cn",
+                    "url": "https://modelscope.cn/models/ZhipuAI/chatglm3-6b/summary"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1698994046415,
+                    "title": "本地安装部署运行 ChatGLM-6B 的常见问题解答以及后续优化 — 秋风于渭水",
+                    "icon": "https://logo.clearbit.com/www.tjsky.net",
+                    "url": "https://www.tjsky.net/tutorial/667"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1698995917552,
+                    "title": "ChatGLM2微调保姆级教程~ - 知乎",
+                    "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                    "url": "https://zhuanlan.zhihu.com/p/641047705"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1699430974021,
+                    "title": "ChatGLM3 的工具调用（FunctionCalling）实现原理 - 知乎",
+                    "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                    "url": "https://zhuanlan.zhihu.com/p/664233831"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1699431108125,
+                    "title": "ChatGLM3-6B 功能原理解析 - Hacker and Geeker's Way",
+                    "icon": "https://logo.clearbit.com/zhaozhiming.github.io",
+                    "url": "https://zhaozhiming.github.io/2023/11/01/chatglm3-feature-interpretation/"
+                  }
+                ]
+              },
+              {
+                "type": "link",
+                "addDate": 1698974535110,
+                "title": "百川大模型-汇聚世界知识 创作妙笔生花-百川智能",
+                "icon": "https://logo.clearbit.com/www.baichuan-ai.com",
+                "url": "https://www.baichuan-ai.com/chat?from=%2Fhome"
+              },
+              {
+                "type": "link",
+                "addDate": 1698980706124,
+                "title": "本地部署清华大模型 ChatGLM3-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/qq_41773806/article/details/134189261"
+              },
+              {
+                "type": "link",
+                "addDate": 1702717178422,
+                "title": "新的ChatGPTPlus(GPT4)支付渠道？怎么付费充值？ - 知乎",
+                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                "url": "https://zhuanlan.zhihu.com/p/647673906"
+              },
+              {
+                "type": "link",
+                "addDate": 1703301518982,
+                "title": "VTuber Maker | Bring VTuber Avatar to Life",
+                "icon": "https://logo.clearbit.com/live3d.io",
+                "url": "https://live3d.io/vtuber_maker"
+              },
+              {
+                "type": "link",
+                "addDate": 1686552353698,
+                "title": "Gen-2: Text to Video - Runway",
+                "icon": "https://logo.clearbit.com/app.runwayml.com",
+                "url": "https://app.runwayml.com/video-tools/teams/congliu096/ai-tools/gen-2"
+              },
+              {
+                "type": "link",
+                "addDate": 1717505209591,
+                "title": "扣子 - AI 智能体开发平台",
+                "icon": "https://logo.clearbit.com/www.coze.cn",
+                "url": "https://www.coze.cn/?cate_type=category&cate_value=7331636528340500518"
+              },
+              {
+                "type": "link",
+                "addDate": 1717553878913,
+                "title": "gpt4",
+                "icon": "https://logo.clearbit.com/medium.com",
+                "url": "https://medium.com/@khawarkhani0786/%E4%BA%B2%E6%B5%8B%E6%9C%89%E6%95%88-chatgpt-plus%E4%BC%9A%E5%91%98-gpt4%E5%BC%80%E9%80%9A%E6%96%B9%E6%B3%95-%E4%BB%85%E9%9C%80%E6%94%AF%E4%BB%98%E5%AE%9D%E6%88%96%E5%BE%AE%E4%BF%A1-69b706a0b72b"
+              },
+              {
+                "type": "link",
+                "addDate": 1718354823357,
+                "title": "Copilot",
+                "icon": "https://logo.clearbit.com/copilot.microsoft.com",
+                "url": "https://copilot.microsoft.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1719486326082,
+                "title": "Hugging Face快速入门（重点讲解模型(Transformers)和数据集部分(Datasets)）_huggingface-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/zhaohongfei_358/article/details/126224199"
+              },
+              {
+                "type": "link",
+                "addDate": 1728695760656,
+                "title": "视频AI",
+                "icon": "https://logo.clearbit.com/hailuoai.com",
+                "url": "https://hailuoai.com/video"
+              }
+            ]
+          },
           {
             "type": "link",
             "addDate": 1702971598255,
@@ -6345,6 +6402,90 @@
             "title": "懂AI | 一站式AI导航",
             "icon": "https://logo.clearbit.com/www.dongaigc.com",
             "url": "https://www.dongaigc.com/"
+          },
+          {
+            "type": "folder",
+            "addDate": 1728647918435,
+            "title": "soft",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1728647903815,
+                "title": "jagt/clumsy: 让 Windows 网络变差的工具 - HelloGitHub",
+                "icon": "https://logo.clearbit.com/hellogithub.com",
+                "url": "https://hellogithub.com/repository/874fa3b759b643bba5a1d529c55a6cb6"
+              },
+              {
+                "type": "link",
+                "addDate": 1728647988256,
+                "title": "RT-Thread/rt-thread: 小而美的物联网操作系统 - HelloGitHub",
+                "icon": "https://logo.clearbit.com/hellogithub.com",
+                "url": "https://hellogithub.com/repository/5816fc3c1e714d109631ceb377538ca9"
+              },
+              {
+                "type": "link",
+                "addDate": 1729599949299,
+                "title": "marian42/wavefunctioncollapse: 基于 WFC 的无限城市示例 - HelloGitHub",
+                "icon": "https://logo.clearbit.com/hellogithub.com",
+                "url": "https://hellogithub.com/repository/190ec5f3afc3452ea1b7a666e8d11684"
+              },
+              {
+                "type": "link",
+                "addDate": 1730099075290,
+                "title": "The Most Dangerous Writing App",
+                "icon": "https://logo.clearbit.com/maebert.github.io",
+                "url": "https://maebert.github.io/themostdangerouswritingapp/"
+              },
+              {
+                "type": "link",
+                "addDate": 1730807545134,
+                "title": "Ugly Avatar",
+                "icon": "https://logo.clearbit.com/txstc55.github.io",
+                "url": "https://txstc55.github.io/ugly-avatar/"
+              },
+              {
+                "type": "link",
+                "addDate": 1730810163233,
+                "title": "brunosimon/folio-2019: 一款开源的 3D 博客项目 - HelloGitHub",
+                "icon": "https://logo.clearbit.com/hellogithub.com",
+                "url": "https://hellogithub.com/repository/30d517de2e244647960801efbdc6d4e4"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1729748460848,
+            "title": "Index of /books/",
+            "icon": "https://logo.clearbit.com/101.43.26.36",
+            "url": "http://101.43.26.36/books/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729755856072,
+            "title": "» RFC Editor",
+            "icon": "https://logo.clearbit.com/www.rfc-editor.org",
+            "url": "https://www.rfc-editor.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1731142306977,
+            "title": "在线增加图像体积工具 - UU在线工具",
+            "icon": "https://logo.clearbit.com/uutool.cn",
+            "url": "https://uutool.cn/img-fat/"
+          },
+          {
+            "type": "link",
+            "addDate": 1731414291178,
+            "title": "时间戳(Unix timestamp)转换工具 - 在线工具",
+            "icon": "https://logo.clearbit.com/tool.lu",
+            "url": "https://tool.lu/timestamp/"
+          },
+          {
+            "type": "link",
+            "addDate": 1731674034654,
+            "title": "Geometrize Web Demo - geometrizing images into geometric primitives",
+            "icon": "https://logo.clearbit.com/www.samcodes.co.uk",
+            "url": "https://www.samcodes.co.uk/project/geometrize-haxe-web/"
           }
         ]
       },
@@ -6353,6 +6494,125 @@
         "addDate": 1713936235195,
         "title": "stun/turn",
         "children": [
+          {
+            "type": "folder",
+            "addDate": 1728974236709,
+            "title": "rtsp",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1730360878624,
+                "title": "htmlPlayer",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1730784846085,
+                    "title": "RTSP PLAYER",
+                    "icon": "https://logo.clearbit.com/47.106.68.223",
+                    "url": "http://47.106.68.223/rtspPlayer.html"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730714282422,
+                    "title": "UDP RTSP PLAYER",
+                    "icon": "https://logo.clearbit.com/",
+                    "url": "file:///E:/download/sdk/TXW81x_FPV-v2.5.3.7-29108/yzrtc/test/udp.html"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1730802859140,
+                    "title": "LOCAL RTSP PLAYER",
+                    "icon": "https://logo.clearbit.com/192.168.66.134",
+                    "url": "http://192.168.66.134:18000/rtspPlayer.html"
+                  }
+                ]
+              },
+              {
+                "type": "link",
+                "addDate": 1728974222569,
+                "title": "bluenviron/mediamtx: Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/bluenviron/mediamtx"
+              },
+              {
+                "type": "link",
+                "addDate": 1728987280735,
+                "title": "rtsp协议详解-最详细的流媒体传输协议-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/m0_73443478/article/details/137231316"
+              },
+              {
+                "type": "link",
+                "addDate": 1729133340366,
+                "title": "RFC 7826 - Real-Time Streaming Protocol Version 2.0",
+                "icon": "https://logo.clearbit.com/datatracker.ietf.org",
+                "url": "https://datatracker.ietf.org/doc/rfc7826/"
+              },
+              {
+                "type": "link",
+                "addDate": 1729748965009,
+                "title": "前端播放音频【vue，audio】_vue将blob转化为mp3格式并播放-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/qq_22841387/article/details/123102554"
+              },
+              {
+                "type": "link",
+                "addDate": 1729748977421,
+                "title": "js如何播放二进制音频 | PingCode智库",
+                "icon": "https://logo.clearbit.com/docs.pingcode.com",
+                "url": "https://docs.pingcode.com/baike/2673684"
+              },
+              {
+                "type": "link",
+                "addDate": 1729757089459,
+                "title": "WEB端实现PCM裸流播放_web端怎么播放pcm格式的音频-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/baidu_zhongce/article/details/50393254"
+              },
+              {
+                "type": "link",
+                "addDate": 1729770797574,
+                "title": "JS各种数据流之间的格式（ArrayBuffer、Uint8Array、Blob、 File、DataURL）相互转换及应用-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/qq_38886284/article/details/131985176"
+              },
+              {
+                "type": "link",
+                "addDate": 1729845885183,
+                "title": "js 采集pcm，并封装为wav，包含重采样，提供下载_js mediarecorder pcm-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/zhoutianyou/article/details/132977072"
+              },
+              {
+                "type": "link",
+                "addDate": 1729852371930,
+                "title": "简单实现在linux下高品质音频输出(原生DSD/DoP输出、自动同步重采样率等) NGA玩家社区",
+                "icon": "https://logo.clearbit.com/bbs.nga.cn",
+                "url": "https://bbs.nga.cn/read.php?tid=32515680&rand=203"
+              },
+              {
+                "type": "link",
+                "addDate": 1730864260011,
+                "title": "Linux系统压力测试工具(命令行工具) - 海布里Simple - 博客园",
+                "icon": "https://logo.clearbit.com/www.cnblogs.com",
+                "url": "https://www.cnblogs.com/ailiailan/p/18526001"
+              },
+              {
+                "type": "folder",
+                "addDate": 1730891361147,
+                "title": "mediamtx",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1730891327973,
+                    "title": "MediaMTX API",
+                    "icon": "https://logo.clearbit.com/bluenviron.github.io",
+                    "url": "https://bluenviron.github.io/mediamtx/#tag/Configuration"
+                  }
+                ]
+              }
+            ]
+          },
           {
             "type": "folder",
             "addDate": 1713938117635,
@@ -7107,6 +7367,76 @@
                 "url": "https://developer.mozilla.org/zh-CN/docs/Web/API/Blob"
               }
             ]
+          },
+          {
+            "type": "link",
+            "addDate": 1730184217026,
+            "title": "WebRTC ICE 国内网络的穿透率_webrtc 4g 无法互通-CSDN博客",
+            "icon": "https://logo.clearbit.com/blog.csdn.net",
+            "url": "https://blog.csdn.net/huapeng_guo/article/details/123994199"
+          },
+          {
+            "type": "link",
+            "addDate": 1730358974923,
+            "title": "RTSP UDP播放 穿透原理_rtsp 穿透-CSDN博客",
+            "icon": "https://logo.clearbit.com/blog.csdn.net",
+            "url": "https://blog.csdn.net/lanyultd/article/details/54630131"
+          },
+          {
+            "type": "folder",
+            "addDate": 1727083442797,
+            "title": "yzwebrtchtml",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1726811428593,
+                "title": "WebRTC DataChannel",
+                "icon": "https://logo.clearbit.com/101.43.26.36",
+                "url": "http://101.43.26.36/books/web/videoconn/webrtcChat.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1727083445925,
+                "title": "Turn WebRTC DataChannel",
+                "icon": "https://logo.clearbit.com/101.43.26.36",
+                "url": "http://101.43.26.36/books/web/videoconn/turnServerWebrtc.html"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1724897529416,
+            "title": "server",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1724897513127,
+                "title": "cesanta/mongoose: Embedded Web Server",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/cesanta/mongoose"
+              },
+              {
+                "type": "link",
+                "addDate": 1725010124507,
+                "title": "Mongoose :: Documentation",
+                "icon": "https://logo.clearbit.com/mongoose.ws",
+                "url": "https://mongoose.ws/documentation/#tutorials-and-examples"
+              },
+              {
+                "type": "link",
+                "addDate": 1725365401898,
+                "title": "zion/licenseServer",
+                "icon": "https://logo.clearbit.com/gitee.com",
+                "url": "https://gitee.com/gaoyueanxun/license-server"
+              },
+              {
+                "type": "link",
+                "addDate": 1725507951466,
+                "title": "刘锡安 / license-server · GitLab",
+                "icon": "https://logo.clearbit.com/192.168.66.101",
+                "url": "http://192.168.66.101/liuxian/license-server"
+              }
+            ]
           }
         ]
       },
@@ -7118,41 +7448,6 @@
         "url": "https://cloud.tencent.com/act/pro/yunmember?from=19314#renewallottery"
       },
       {
-        "type": "folder",
-        "addDate": 1724897529416,
-        "title": "server",
-        "children": [
-          {
-            "type": "link",
-            "addDate": 1724897513127,
-            "title": "cesanta/mongoose: Embedded Web Server",
-            "icon": "https://logo.clearbit.com/github.com",
-            "url": "https://github.com/cesanta/mongoose"
-          },
-          {
-            "type": "link",
-            "addDate": 1725010124507,
-            "title": "Mongoose :: Documentation",
-            "icon": "https://logo.clearbit.com/mongoose.ws",
-            "url": "https://mongoose.ws/documentation/#tutorials-and-examples"
-          },
-          {
-            "type": "link",
-            "addDate": 1725365401898,
-            "title": "zion/licenseServer",
-            "icon": "https://logo.clearbit.com/gitee.com",
-            "url": "https://gitee.com/gaoyueanxun/license-server"
-          },
-          {
-            "type": "link",
-            "addDate": 1725507951466,
-            "title": "刘锡安 / license-server · GitLab",
-            "icon": "https://logo.clearbit.com/192.168.66.101",
-            "url": "http://192.168.66.101/liuxian/license-server"
-          }
-        ]
-      },
-      {
         "type": "link",
         "addDate": 1725971512228,
         "title": "Pintree",
@@ -7160,23 +7455,23 @@
         "url": "https://canaconzion.github.io/pintree/"
       },
       {
+        "type": "link",
+        "addDate": 1730889765180,
+        "title": "Mediamtx 控制台",
+        "icon": "https://logo.clearbit.com/192.168.66.134",
+        "url": "http://192.168.66.134:18000/"
+      },
+      {
         "type": "folder",
-        "addDate": 1727083442797,
-        "title": "yzwebrtchtml",
+        "addDate": 1731492900549,
+        "title": "webrtc",
         "children": [
           {
             "type": "link",
-            "addDate": 1726811428593,
-            "title": "WebRTC DataChannel",
-            "icon": "https://logo.clearbit.com/101.43.26.36",
-            "url": "http://101.43.26.36/books/web/videoconn/webrtcChat.html"
-          },
-          {
-            "type": "link",
-            "addDate": 1727083445925,
-            "title": "Turn WebRTC DataChannel",
-            "icon": "https://logo.clearbit.com/101.43.26.36",
-            "url": "http://101.43.26.36/books/web/videoconn/turnServerWebrtc.html"
+            "addDate": 1731492885311,
+            "title": "WebRtc源码下载与编译（完整版）-CSDN博客",
+            "icon": "https://logo.clearbit.com/blog.csdn.net",
+            "url": "https://blog.csdn.net/zhangpf6699/article/details/134138777"
           }
         ]
       }
