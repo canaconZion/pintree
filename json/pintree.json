@@ -170,13 +170,6 @@
             "children": [
               {
                 "type": "link",
-                "addDate": 1639647658953,
-                "title": "避免每次都用sudo使用docker - phyger - 博客园",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/phyger/p/8350351.html"
-              },
-              {
-                "type": "link",
                 "addDate": 1639732499851,
                 "title": "(58条消息) Docker Error loading config file XXX.dockerconfig.json permission denied和 Docker Got permission 解决_Willen_的博客-CSDN博客",
                 "icon": "https://logo.clearbit.com/blog.csdn.net",
@@ -3738,6 +3731,34 @@
                     "title": "webrtc Git repositories - Git at Google",
                     "icon": "https://logo.clearbit.com/webrtc.googlesource.com",
                     "url": "https://webrtc.googlesource.com/?format=HTML"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1735795778554,
+                    "title": "单独编译和使用webrtc音频降噪模块(附完整源码+测试音频文件) - 繁星jemini - 博客园",
+                    "icon": "https://logo.clearbit.com/www.cnblogs.com",
+                    "url": "https://www.cnblogs.com/mod109/p/5469799.html"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1735798194182,
+                    "title": "WebRTC 开发（二）源码下载与编译 | Depth.Love Blog",
+                    "icon": "https://logo.clearbit.com/depthlove.github.io",
+                    "url": "https://depthlove.github.io/2019/05/02/webrtc-development-2-source-code-download-and-build/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1735800594239,
+                    "title": "webrtc源码",
+                    "icon": "https://logo.clearbit.com/webrtc.googlesource.com",
+                    "url": "https://webrtc.googlesource.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1735811564891,
+                    "title": "WebRTC | 原理、架构、框架目录、运行机制、核心类、PeerConnection调用过程等详解-腾讯云开发者社区-腾讯云",
+                    "icon": "https://logo.clearbit.com/cloud.tencent.com",
+                    "url": "https://cloud.tencent.com/developer/article/1677612"
                   }
                 ]
               },
@@ -4214,6 +4235,13 @@
                     "title": "【FFmpeg】学会添加水印，只要这一篇就足够_ffmpeg加水印-CSDN博客",
                     "icon": "https://logo.clearbit.com/blog.csdn.net",
                     "url": "https://blog.csdn.net/yinshipin007/article/details/126125684"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1739933249718,
+                    "title": "ffmpeg 命令行--日志级别设置_ffmpeg的日志能反应进度吗-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/glw0223/article/details/87020868"
                   }
                 ]
               },
@@ -4417,13 +4445,6 @@
                     "title": "音频参数解析_音频解析-CSDN博客",
                     "icon": "https://logo.clearbit.com/blog.csdn.net",
                     "url": "https://blog.csdn.net/caoshangpa/article/details/51218597"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1731319757551,
-                    "title": "单独编译和使用webrtc音频回声消除模块(附完整源码+测试音频文件)（转）_webrtc如何单独编译acem-CSDN博客",
-                    "icon": "https://logo.clearbit.com/blog.csdn.net",
-                    "url": "https://blog.csdn.net/zp704393004/article/details/127214547"
                   }
                 ]
               },
@@ -4475,6 +4496,20 @@
                 "title": "视频码率与分辨率的参考表_分辨率与码率对照表-CSDN博客",
                 "icon": "https://logo.clearbit.com/blog.csdn.net",
                 "url": "https://blog.csdn.net/ffffffff8/article/details/115456884"
+              },
+              {
+                "type": "folder",
+                "addDate": 1737096285475,
+                "title": "音频",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1737096267108,
+                    "title": "Let's Learn About Waveforms",
+                    "icon": "https://logo.clearbit.com/pudding.cool",
+                    "url": "https://pudding.cool/2018/02/waveforms/"
+                  }
+                ]
               }
             ]
           },
@@ -5091,6 +5126,13 @@
                 "title": "收集全网优秀开源个人网站主页代码 - 知乎",
                 "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
                 "url": "https://zhuanlan.zhihu.com/p/336410564"
+              },
+              {
+                "type": "link",
+                "addDate": 1739417646252,
+                "title": "Ubuntu回环满速体验：揭秘系统内部网络配置奥秘 - 云原生实践",
+                "icon": "https://logo.clearbit.com/www.oryoy.com",
+                "url": "https://www.oryoy.com/news/ubuntu-hui-huan-man-su-ti-yan-jie-mi-xi-tong-nei-bu-wang-luo-pei-zhi-ao-mi.html"
               }
             ]
           },
@@ -5621,6 +5663,13 @@
                     "title": "首页 | Node.js v20 文档",
                     "icon": "https://logo.clearbit.com/nodejs.cn",
                     "url": "https://nodejs.cn/api/v20/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1740812258327,
+                    "title": "Node.js日志神器（winston）任何程序都需要记录业务日志，因此各种语言都有对应的日志库，例如 Java 中的 - 掘金",
+                    "icon": "https://logo.clearbit.com/juejin.cn",
+                    "url": "https://juejin.cn/post/6865926810061045774"
                   }
                 ]
               },
@@ -5784,6 +5833,48 @@
                 "title": "EvanNotFound's Blog - Redefine Your Hexo Journey.",
                 "icon": "https://logo.clearbit.com/ohevan.com",
                 "url": "https://ohevan.com/"
+              },
+              {
+                "type": "folder",
+                "addDate": 1739358106571,
+                "title": "rust",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1739358091317,
+                    "title": "关于本书 - Rust语言圣经(Rust Course)",
+                    "icon": "https://logo.clearbit.com/course.rs",
+                    "url": "https://course.rs/about-book.html"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1740045009922,
+                "title": "C",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1740044989073,
+                    "title": "简单到傻瓜都会用的日志库：log.c",
+                    "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
+                    "url": "https://mp.weixin.qq.com/s/CQI7c9SUZOeBT1MVfIWCZw"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1741606323993,
+                "title": "go",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1741606309124,
+                    "title": "golang安装包下载_开源镜像站-阿里云",
+                    "icon": "https://logo.clearbit.com/mirrors.aliyun.com",
+                    "url": "https://mirrors.aliyun.com/golang/"
+                  }
+                ]
               }
             ]
           },
@@ -6004,13 +6095,6 @@
               },
               {
                 "type": "link",
-                "addDate": 1722254785375,
-                "title": "Ubuntu中利用 sysv-rc-conf 设置开机自启动-CSDN博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/u013554213/article/details/86584705"
-              },
-              {
-                "type": "link",
                 "addDate": 1672915667483,
                 "title": "tmux命令_Linux tmux命令：一个窗口操作多个会话",
                 "icon": "https://logo.clearbit.com/c.biancheng.net",
@@ -6029,6 +6113,13 @@
                 "title": "Termux设置——服务自启动_termux-services-CSDN博客",
                 "icon": "https://logo.clearbit.com/blog.csdn.net",
                 "url": "https://blog.csdn.net/YiBYiH/article/details/127294017"
+              },
+              {
+                "type": "link",
+                "addDate": 1722254785375,
+                "title": "Ubuntu中利用 sysv-rc-conf 设置开机自启动-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/u013554213/article/details/86584705"
               },
               {
                 "type": "link",
@@ -6108,6 +6199,62 @@
             "title": "用C语言开发ping命令 | 小菜学网络",
             "icon": "https://logo.clearbit.com/fasionchan.com",
             "url": "https://fasionchan.com/network/icmp/ping-c/"
+          },
+          {
+            "type": "folder",
+            "addDate": 1737368237202,
+            "title": "LOWIP",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1737368214625,
+                "title": "lwIP配置宏整理（部分）_lwip 配置文件 宏定义含义-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/laifengyuan1/article/details/108769196"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1738897558184,
+            "title": "web",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1738897518494,
+                "title": "Web Worker传输大量Transferable对象时的性能问题",
+                "icon": "https://logo.clearbit.com/joji.me",
+                "url": "https://joji.me/zh-cn/blog/performance-issue-of-using-massive-transferable-objects-in-web-worker/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1739586715361,
+            "title": "podman",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1739586697428,
+                "title": "Podman：更安全、轻量的容器化，Docker过时了？ | Tangly的学习笔记",
+                "icon": "https://logo.clearbit.com/blog.tangly1024.com",
+                "url": "https://blog.tangly1024.com/article/docker-vs-podman"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1739586795964,
+            "title": "jwt",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1739586783657,
+                "title": "Keycloak Admin REST API",
+                "icon": "https://logo.clearbit.com/www.keycloak.org",
+                "url": "https://www.keycloak.org/docs-api/latest/rest-api/index.html"
+              }
+            ]
           }
         ]
       },
@@ -6505,6 +6652,13 @@
                 "title": "Sync Internals",
                 "icon": "https://logo.clearbit.com/sync-internals",
                 "url": "chrome://sync-internals/"
+              },
+              {
+                "type": "link",
+                "addDate": 1737084604888,
+                "title": "开启麦克风调用权限",
+                "icon": "https://logo.clearbit.com/flags",
+                "url": "chrome://flags/#unsafely-treat-insecure-origin-as-secure"
               }
             ]
           },
@@ -6582,6 +6736,34 @@
                 "title": "garywill/linux-router: 将 Linux 作为路由器的脚本 - HelloGitHub",
                 "icon": "https://logo.clearbit.com/hellogithub.com",
                 "url": "https://hellogithub.com/repository/8f122902f0e24a529c3416df60dba1fe"
+              },
+              {
+                "type": "link",
+                "addDate": 1739793063579,
+                "title": "Zeyi-Lin/HivisionIDPhotos: 轻量级的 AI 证件照制作工具 - HelloGitHub",
+                "icon": "https://logo.clearbit.com/hellogithub.com",
+                "url": "https://hellogithub.com/repository/8ea1457289fb4062ba661e5299e733d6"
+              },
+              {
+                "type": "link",
+                "addDate": 1740660697062,
+                "title": "microsoft/OmniParser: 解析屏幕的 AI 工具 - HelloGitHub",
+                "icon": "https://logo.clearbit.com/hellogithub.com",
+                "url": "https://hellogithub.com/repository/786f6ddeb1ce4fb6badedaaedbc81cf5"
+              },
+              {
+                "type": "link",
+                "addDate": 1740660755814,
+                "title": "browser-use/browser-use: 让 AI 操作你的浏览器 - HelloGitHub",
+                "icon": "https://logo.clearbit.com/hellogithub.com",
+                "url": "https://hellogithub.com/repository/b72173b885604e6e9f7b24248fe86125"
+              },
+              {
+                "type": "link",
+                "addDate": 1740660783384,
+                "title": "yamadashy/repomix: 打通代码与 AI 的桥梁 - HelloGitHub",
+                "icon": "https://logo.clearbit.com/hellogithub.com",
+                "url": "https://hellogithub.com/repository/e95785a6401e41ba8b7f38ca74235c62"
               }
             ]
           },
@@ -6605,13 +6787,6 @@
             "title": "在线增加图像体积工具 - UU在线工具",
             "icon": "https://logo.clearbit.com/uutool.cn",
             "url": "https://uutool.cn/img-fat/"
-          },
-          {
-            "type": "link",
-            "addDate": 1731414291178,
-            "title": "时间戳(Unix timestamp)转换工具 - 在线工具",
-            "icon": "https://logo.clearbit.com/tool.lu",
-            "url": "https://tool.lu/timestamp/"
           },
           {
             "type": "link",
@@ -6827,6 +7002,13 @@
                     "url": "https://blog.csdn.net/xuzhongyi103/article/details/131420704"
                   }
                 ]
+              },
+              {
+                "type": "link",
+                "addDate": 1736333535536,
+                "title": "小程序音视频通话（for 硬件）激励政策公告 | 微信开放社区",
+                "icon": "https://logo.clearbit.com/developers.weixin.qq.com",
+                "url": "https://developers.weixin.qq.com/community/minihome/doc/000428b5bd4d10c54812f7cd466401?blockType=99&page=1#comment-list"
               }
             ]
           },
@@ -6859,13 +7041,6 @@
                     "addDate": 1730360878624,
                     "title": "htmlPlayer",
                     "children": [
-                      {
-                        "type": "link",
-                        "addDate": 1730784846085,
-                        "title": "RTSP PLAYER",
-                        "icon": "https://logo.clearbit.com/47.106.68.223",
-                        "url": "http://47.106.68.223/rtspPlayer.html"
-                      },
                       {
                         "type": "link",
                         "addDate": 1730714282422,
@@ -7576,13 +7751,6 @@
                   },
                   {
                     "type": "link",
-                    "addDate": 1722944074991,
-                    "title": "WebRTC samples",
-                    "icon": "https://logo.clearbit.com/webrtc.github.io",
-                    "url": "https://webrtc.github.io/samples/"
-                  },
-                  {
-                    "type": "link",
                     "addDate": 1723627843625,
                     "title": "webrtc.nirbheek.in",
                     "icon": "https://logo.clearbit.com/webrtc.nirbheek.in",
@@ -7864,6 +8032,194 @@
                 "url": "https://www.cnblogs.com/charlieadios/p/3217195.html"
               }
             ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1735874433620,
+            "title": "miniprocess",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1735874415558,
+                "title": "微信公众平台",
+                "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
+                "url": "https://mp.weixin.qq.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1735882754121,
+                "title": "小程序",
+                "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
+                "url": "https://mp.weixin.qq.com/wxamp/devprofile/get_profile?token=695184700&lang=zh_CN"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1736128190583,
+            "title": "webplayer",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1736128172476,
+                "title": "需求小能手——播放pcm实时语音流前两周做了播放实时语音流的需求，过程也是有些艰难，本节就来介绍下播放pcm实时流的过程 - 掘金",
+                "icon": "https://logo.clearbit.com/juejin.cn",
+                "url": "https://juejin.cn/post/7304928750017069107"
+              },
+              {
+                "type": "link",
+                "addDate": 1736144622673,
+                "title": "开放能力 / web-view",
+                "icon": "https://logo.clearbit.com/developers.weixin.qq.com",
+                "url": "https://developers.weixin.qq.com/miniprogram/dev/component/web-view.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1736221336154,
+                "title": "JS 获取浏览器声音、麦克风、通知权限_js获取麦克风权限-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/2301_78583339/article/details/134848764"
+              },
+              {
+                "type": "link",
+                "addDate": 1736232733543,
+                "title": "宝塔Linux面板",
+                "icon": "https://logo.clearbit.com/47.106.68.223",
+                "url": "https://47.106.68.223:15566/files"
+              },
+              {
+                "type": "link",
+                "addDate": 1736253575827,
+                "title": "音频-三-wav格式与处理一篇简单的wav录制代码 - 掘金",
+                "icon": "https://logo.clearbit.com/juejin.cn",
+                "url": "https://juejin.cn/post/6844903593347121159"
+              },
+              {
+                "type": "link",
+                "addDate": 1736301364517,
+                "title": "Wave File Specifications",
+                "icon": "https://logo.clearbit.com/www-mmsp.ece.mcgill.ca",
+                "url": "https://www-mmsp.ece.mcgill.ca/Documents/AudioFormats/WAVE/WAVE.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1736387591066,
+                "title": "Web Audio - 浏览器采集麦克风音频数据Web Audio - 浏览器采集麦克风音频数据 背景 关于Web Au - 掘金",
+                "icon": "https://logo.clearbit.com/juejin.cn",
+                "url": "https://juejin.cn/post/6970558746049118215"
+              },
+              {
+                "type": "folder",
+                "addDate": 1736734848736,
+                "title": "采集",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1736734829475,
+                    "title": "WebCodecs Codec Registry",
+                    "icon": "https://logo.clearbit.com/www.w3.org",
+                    "url": "https://www.w3.org/TR/webcodecs-codec-registry/#audio-codec-registry"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1737096502694,
+                    "title": "Web 音视频（四）在浏览器中处理音频 | 风痕 · 術&思",
+                    "icon": "https://logo.clearbit.com/hughfenghen.github.io",
+                    "url": "https://hughfenghen.github.io/posts/2023/08/05/webav-4-process-audio/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1736734895640,
+                "title": "编码",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1736734873614,
+                    "title": "WebCodecs API - Web API | MDN",
+                    "icon": "https://logo.clearbit.com/developer.mozilla.org",
+                    "url": "https://developer.mozilla.org/zh-CN/docs/Web/API/WebCodecs_API"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1736856813345,
+                "title": "3A",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1736856784624,
+                    "title": "getUserMedia()音频约束 | WebRTC中文网-最权威的RTC实时通信平台",
+                    "icon": "https://logo.clearbit.com/webrtc.org.cn",
+                    "url": "https://webrtc.org.cn/getusermedia-audio-constraints/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1736857840375,
+                    "title": "js怎么实现回声消除",
+                    "icon": "https://logo.clearbit.com/docs.pingcode.com",
+                    "url": "https://docs.pingcode.com/baike/3894657"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1737077263466,
+                    "title": "WebRTC 音频算法 附完整C代码 - cpuimage - 博客园",
+                    "icon": "https://logo.clearbit.com/www.cnblogs.com",
+                    "url": "https://www.cnblogs.com/cpuimage/p/8976346.html"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1737079894736,
+                    "title": "navigator.mediaDevices.getUserMedia(constraints)可设置参数_navigator.getusermedia 调节景深-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/Heartnottowake/article/details/126717494"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1737084633579,
+                "title": "浏览器配置",
+                "children": []
+              },
+              {
+                "type": "folder",
+                "addDate": 1737118368933,
+                "title": "播放",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1737118352595,
+                    "title": "pcm-player - npm",
+                    "icon": "https://logo.clearbit.com/www.npmjs.com",
+                    "url": "https://www.npmjs.com/package/pcm-player?activeTab=readme"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1740832107636,
+            "title": "仓库 - zion (gaoyueanxun) - Gitee.com",
+            "icon": "https://logo.clearbit.com/gitee.com",
+            "url": "https://gitee.com/gaoyueanxun/projects"
+          },
+          {
+            "type": "folder",
+            "addDate": 1741092318041,
+            "title": "server",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1741092285665,
+                "title": "Golang实现高并发WebSocket服务端开发 - 知乎",
+                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                "url": "https://zhuanlan.zhihu.com/p/489023088"
+              }
+            ]
           }
         ]
       },
@@ -7873,6 +8229,41 @@
         "title": "北京时间校准_北京时间在线校准显示毫秒 - 北京2时间网",
         "icon": "https://logo.clearbit.com/www.bjtime.net",
         "url": "https://www.bjtime.net/"
+      },
+      {
+        "type": "link",
+        "addDate": 1731414291178,
+        "title": "时间戳(Unix timestamp)转换工具 - 在线工具",
+        "icon": "https://logo.clearbit.com/tool.lu",
+        "url": "https://tool.lu/timestamp/"
+      },
+      {
+        "type": "link",
+        "addDate": 1736233857316,
+        "title": "测试",
+        "icon": "https://logo.clearbit.com/www.3-rabbit.com",
+        "url": "https://www.3-rabbit.com/index/index/indexzdy"
+      },
+      {
+        "type": "folder",
+        "addDate": 1737337406520,
+        "title": "webrtc",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1722944074991,
+            "title": "WebRTC samples",
+            "icon": "https://logo.clearbit.com/webrtc.github.io",
+            "url": "https://webrtc.github.io/samples/"
+          },
+          {
+            "type": "link",
+            "addDate": 1740737629900,
+            "title": "Instructions for submodule initialization do not recurse submodules · Issue #9900 · Mbed-TLS/mbedtls",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/Mbed-TLS/mbedtls/issues/9900"
+          }
+        ]
       }
     ]
   },
