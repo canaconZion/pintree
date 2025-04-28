@@ -359,13 +359,6 @@
             "children": [
               {
                 "type": "link",
-                "addDate": 1630286944118,
-                "title": "必应",
-                "icon": "https://logo.clearbit.com/cn.bing.com",
-                "url": "https://cn.bing.com/"
-              },
-              {
-                "type": "link",
                 "addDate": 1630292523743,
                 "title": "使用 Haar Cascades 进行人脸检测",
                 "icon": "https://logo.clearbit.com/opencv.apachecn.org",
@@ -1726,24 +1719,10 @@
                     "children": [
                       {
                         "type": "link",
-                        "addDate": 1658110669261,
-                        "title": "奉化管理系统",
-                        "icon": "https://logo.clearbit.com/fenghua.dyinnovations.com",
-                        "url": "https://fenghua.dyinnovations.com:9008/#/wrap/monitor"
-                      },
-                      {
-                        "type": "link",
                         "addDate": 1658110687091,
                         "title": "钱塘管理系统",
                         "icon": "https://logo.clearbit.com/z-cloud.dyinnovations.com",
                         "url": "https://z-cloud.dyinnovations.com:9008/#/wrap/monitor"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1657695680992,
-                        "title": "TY04楼顶管理系统",
-                        "icon": "https://logo.clearbit.com/shenzhen.cloud-native.dyinnovations.com",
-                        "url": "https://shenzhen.cloud-native.dyinnovations.com:9008/#/wrap/monitor"
                       },
                       {
                         "type": "link",
@@ -1969,15 +1948,7 @@
                 "type": "folder",
                 "addDate": 1655950607676,
                 "title": "图传信息",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1655950577635,
-                    "title": "Version record - 飞书云文档",
-                    "icon": "https://logo.clearbit.com/dyi-prod.feishu.cn",
-                    "url": "https://dyi-prod.feishu.cn/docs/doccnCZepRNYQm4uDSgoqPn3nWd"
-                  }
-                ]
+                "children": []
               },
               {
                 "type": "folder",
@@ -3567,6 +3538,20 @@
             "title": "实时互动网-为实时互动创业者和开发者服务",
             "icon": "https://logo.clearbit.com/www.nxrte.com",
             "url": "https://www.nxrte.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1742267342191,
+            "title": "NewsNow | 最热",
+            "icon": "https://logo.clearbit.com/newsnow.busiyi.world",
+            "url": "https://newsnow.busiyi.world/c/hottest"
+          },
+          {
+            "type": "link",
+            "addDate": 1744367091233,
+            "title": "NewsNow | 最热",
+            "icon": "https://logo.clearbit.com/newsnow.busiyi.world",
+            "url": "https://newsnow.busiyi.world/"
           }
         ]
       },
@@ -4892,13 +4877,6 @@
               {
                 "type": "link",
                 "addDate": 1658305203448,
-                "title": "tuhuan-matrix-config.json - 飞书云文档",
-                "icon": "https://logo.clearbit.com/dyi-prod.feishu.cn",
-                "url": "https://dyi-prod.feishu.cn/docx/doxcn9oLL8vcvDGFXvQIJk3LYBd"
-              },
-              {
-                "type": "link",
-                "addDate": 1658305203448,
                 "title": "Bing Microsoft Translator - 从中文 (简体)翻译到英语",
                 "icon": "https://logo.clearbit.com/cn.bing.com",
                 "url": "https://cn.bing.com/translator?ref=TThis&text=&from=zh-Hans&to=en&mkt=zh-CN"
@@ -4993,13 +4971,6 @@
                 "title": "管理系统",
                 "icon": "https://logo.clearbit.com/shenzhen.cloud-native.dyinnovations.com",
                 "url": "https://shenzhen.cloud-native.dyinnovations.com:9008/#/wrap/monitor"
-              },
-              {
-                "type": "link",
-                "addDate": 1658305203450,
-                "title": "必应",
-                "icon": "https://logo.clearbit.com/cn.bing.com",
-                "url": "https://cn.bing.com/"
               },
               {
                 "type": "link",
@@ -5873,6 +5844,20 @@
                     "title": "golang安装包下载_开源镜像站-阿里云",
                     "icon": "https://logo.clearbit.com/mirrors.aliyun.com",
                     "url": "https://mirrors.aliyun.com/golang/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1741955943351,
+                    "title": "切片 | Golang 中文学习文档",
+                    "icon": "https://logo.clearbit.com/golang.halfiisland.com",
+                    "url": "https://golang.halfiisland.com/essential/base/60.slice.html#%E5%88%87%E5%89%B2"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1744374475527,
+                    "title": "Go 程序内存泄露问题快速定位 - 知乎",
+                    "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                    "url": "https://zhuanlan.zhihu.com/p/368567370"
                   }
                 ]
               }
@@ -6255,6 +6240,20 @@
                 "url": "https://www.keycloak.org/docs-api/latest/rest-api/index.html"
               }
             ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1743125483262,
+            "title": "网站开发",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1743125444496,
+                "title": "关于我们 - Gin-Vue-Admin",
+                "icon": "https://logo.clearbit.com/demo.gin-vue-admin.com",
+                "url": "https://demo.gin-vue-admin.com/#/layout/about"
+              }
+            ]
           }
         ]
       },
@@ -6442,6 +6441,13 @@
                 "title": "DeepSeek - 探索未至之境",
                 "icon": "https://logo.clearbit.com/chat.deepseek.com",
                 "url": "https://chat.deepseek.com/a/chat/s/878a65cc-7f2b-42e1-a9c1-6ed5dc5a94ab"
+              },
+              {
+                "type": "link",
+                "addDate": 1742042099000,
+                "title": "Readdy",
+                "icon": "https://logo.clearbit.com/readdy.ai",
+                "url": "https://readdy.ai/home/9942a71d-1ae8-46a8-a6bb-71392cddf3c8/c7551a85-6351-4df5-9da6-58c40d0b3518"
               }
             ]
           },
@@ -6764,6 +6770,20 @@
                 "title": "yamadashy/repomix: 打通代码与 AI 的桥梁 - HelloGitHub",
                 "icon": "https://logo.clearbit.com/hellogithub.com",
                 "url": "https://hellogithub.com/repository/e95785a6401e41ba8b7f38ca74235c62"
+              },
+              {
+                "type": "link",
+                "addDate": 1744458908832,
+                "title": "ading2210/linuxpdf: 运行在 PDF 文件里的 Linux 系统 - HelloGitHub",
+                "icon": "https://logo.clearbit.com/hellogithub.com",
+                "url": "https://hellogithub.com/repository/da404e88b34d449382015e1715d77e31"
+              },
+              {
+                "type": "link",
+                "addDate": 1745809716099,
+                "title": "使用方法 - LinuxMirrors",
+                "icon": "https://logo.clearbit.com/linuxmirrors.cn",
+                "url": "https://linuxmirrors.cn/use/"
               }
             ]
           },
@@ -7023,6 +7043,55 @@
                 "title": "WebRtc源码下载与编译（完整版）-CSDN博客",
                 "icon": "https://logo.clearbit.com/blog.csdn.net",
                 "url": "https://blog.csdn.net/zhangpf6699/article/details/134138777"
+              },
+              {
+                "type": "folder",
+                "addDate": 1742979998873,
+                "title": "libpeer",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1742979973242,
+                    "title": "laumy.tech/1680.html",
+                    "icon": "https://logo.clearbit.com/www.laumy.tech",
+                    "url": "https://www.laumy.tech/1680.html"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1742984971928,
+                    "title": "laumy.tech/1680.html#h23",
+                    "icon": "https://logo.clearbit.com/www.laumy.tech",
+                    "url": "https://www.laumy.tech/1680.html#h23"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1745302613302,
+                "title": "audio_processing",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1745302587743,
+                    "title": "PulseAudio / webrtc-audio-processing · GitLab",
+                    "icon": "https://logo.clearbit.com/gitlab.freedesktop.org",
+                    "url": "https://gitlab.freedesktop.org/pulseaudio/webrtc-audio-processing/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1745302664270,
+                    "title": "WebRTC AudioProcessing 调试方法 - 知乎",
+                    "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                    "url": "https://zhuanlan.zhihu.com/p/416984089"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1745306288403,
+                    "title": "WebRTC AudioProcessing",
+                    "icon": "https://logo.clearbit.com/www.freedesktop.org",
+                    "url": "https://www.freedesktop.org/software/pulseaudio/webrtc-audio-processing/"
+                  }
+                ]
               }
             ]
           },
@@ -8208,6 +8277,13 @@
             "url": "https://gitee.com/gaoyueanxun/projects"
           },
           {
+            "type": "link",
+            "addDate": 1742267398178,
+            "title": "Projects · GitLab",
+            "icon": "https://logo.clearbit.com/192.168.66.200",
+            "url": "http://192.168.66.200/"
+          },
+          {
             "type": "folder",
             "addDate": 1741092318041,
             "title": "server",
@@ -8218,6 +8294,27 @@
                 "title": "Golang实现高并发WebSocket服务端开发 - 知乎",
                 "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
                 "url": "https://zhuanlan.zhihu.com/p/489023088"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1743061225253,
+            "title": "mqtt",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1743061208177,
+                "title": "Docker安装emqx详解（配置SSL证书、开启WSS、鉴权）_emqx wss-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/qq_35921773/article/details/128343692"
+              },
+              {
+                "type": "link",
+                "addDate": 1745566900815,
+                "title": "EMQX server",
+                "icon": "https://logo.clearbit.com/122.152.214.141",
+                "url": "http://122.152.214.141:18083/#/dashboard/overview"
               }
             ]
           }
